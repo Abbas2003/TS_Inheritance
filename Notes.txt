@@ -1,0 +1,9 @@
+Email: education@piaic.org
+Phone: 0308-222-0203
+
+*Install Node js (Version: 18.16.1 LTS)
+*Install TypeScript 
+*Goto Terminal type: npm -g typescript
+*Coding will be in TS > will convert into JS > Node js will run it in Vs code
+*node main.ts
+*tsc main.ts && node main.js (TS > JS then jS will be compiled)
